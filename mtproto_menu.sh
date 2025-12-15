@@ -300,3 +300,4 @@ main_menu
 BASH
 
 chmod +x /root/mtproto_menu.sh
+exec /root/mtproto_menu.sh
